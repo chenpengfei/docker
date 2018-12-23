@@ -1,0 +1,3 @@
+/home/parallels/docker/namespace/CMakeFiles/edit_cache.dir
+/home/parallels/docker/namespace/CMakeFiles/rebuild_cache.dir
+/home/parallels/docker/namespace/CMakeFiles/Tutorial.dir

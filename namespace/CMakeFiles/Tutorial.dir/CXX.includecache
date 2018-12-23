@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/parallels/docker/namespace/tutorial.cxx
+sys/types.h
+-
+stdlib.h
+-
+sys/wait.h
+-
+stdio.h
+-
+sched.h
+-
+signal.h
+-
+unistd.h
+-
+
